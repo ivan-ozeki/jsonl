@@ -1,0 +1,7 @@
+to run use
+python3 json_to_jsonl_converter.py
+
+input_directory = '/Users/ivanassenov/dev/R&D/crawler/Data/page3'  # Directory containing the JSON files
+output_directory = '/Users/ivanassenov/dev/R&D/jsonl/output-jsonl-data'  # Directory where JSONL files will be saved
+
+you can keep the input and output directories in separate projects
